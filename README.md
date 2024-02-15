@@ -4,3 +4,6 @@ In addition to its waste collection capabilities the robot is equipped with adva
 
 ![Screenshot (1228)](https://github.com/Ahmed00Gaber/Graduation-Project-Autonomous-Water-Cleaning-Robot/assets/113920593/96325383-9a1d-4ab0-9090-5dd5d0dc5014)
 
+![circuit](https://github.com/Ahmed00Gaber/Graduation-Project-Autonomous-Water-Cleaning-Robot/assets/113920593/44b48a52-9786-4f68-b8bd-855c4ade602f)
+
+
