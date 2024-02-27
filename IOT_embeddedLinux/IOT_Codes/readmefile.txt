@@ -1,0 +1,1 @@
+The run code is a script to run directly once the rasberry pi opened
