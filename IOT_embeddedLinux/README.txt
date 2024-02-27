@@ -1,4 +1,4 @@
-
+# Description
 ## Server Initialization:**
    - The `server_ada.py` server for Adafruit Cloud integration will be initiated.
    - Wait for approximately 10 seconds to ensure that the server is ready to listen to clients.
